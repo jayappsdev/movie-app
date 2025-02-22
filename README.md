@@ -17,3 +17,6 @@ Spustenie aplikácie:
 ```sh
 npm run dev
 ```
+
+### Návrh db diagramu po normalizácii
+![db_diagram](https://github.com/user-attachments/assets/bd403294-4573-46ce-b7a5-365d34261219)
